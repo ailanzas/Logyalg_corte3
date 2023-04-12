@@ -1,3 +1,5 @@
+/*Determinar la media de una cantidad de numeros indefinidas de numeros positivos
+terminando con un numero negativo */
 #include <iostream>
 using namespace std;
 void calcMedia();
